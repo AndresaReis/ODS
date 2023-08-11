@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(248, 173, 173);
+  
+}
+img{
+    width: 30%;
+margin-top: auto;}
+
+
+h1 {font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-top-style: solid;}
+    .imagem{
+
+    }
+    
+ 
+
+h2 {font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+   
+}
+
+.p {font-family: Arial, Helvetica, sans-serif;
+     text-align:center;
+   
+    
+}
+.button{
+    text-align: center;
+}
+
+.informações li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+}
